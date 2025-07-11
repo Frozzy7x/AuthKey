@@ -1,0 +1,16 @@
+[
+{
+  "modid": "authkey",
+  "name": "AuthKey",
+  "description": "AuthKey — мод для авторизации игроков по уникальному ключу на offline-mode сервере Minecraft.\nEN: AuthKey is a mod for player authentication by unique key on offline-mode Minecraft servers.",
+  "version": "0.1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frozzy"],
+  "credits": "Mod code and structure cleaned up and improved with the help of AI assistant (GPT-4), 2024.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
